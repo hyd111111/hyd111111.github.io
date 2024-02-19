@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 
 I am a PhD student in mathematics and statistics at [Machine Learning group](https://www.cwi.nl/en/groups/machine-learning/), [Centrum Wiskunde & Informatica (CWI)](https://www.cwi.nl/en/) (the national research institute for mathematics and computer science in the Netherlands). My supervisor is [Prof. Peter Grünwald](https://safestatistics.com/).
 
-My research interests include a
+My research interests include Safe, Anytime-Valid Test (Also called e-value, e-process etc.) and Information Theory specializing in Minimum Description Length (MDL). I am also intersted in problems in foundations of Machine Learning.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
