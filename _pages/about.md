@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a PhD student at [Centrum Wiskunde & Informatica (CWI)](https://www.cwi.nl/en/), the national research institute for mathematics and computer science in the Netherlands.
+I am a PhD student in mathematics and statistics at [Centrum Wiskunde & Informatica (CWI)](https://www.cwi.nl/en/), the national research institute for mathematics and computer science in the Netherlands. My supervisor is [Prof. Peter Grünwald](https://safestatistics.com/). Previously, I obtained my BSc in Mathematics and MSc in Statistics from Hebei University and Xi'an jiaotong University, China, respectively.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
