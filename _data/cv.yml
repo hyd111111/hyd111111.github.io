@@ -3,11 +3,17 @@
   contents:
     - name: Full Name
       value: Yunda Hao
-    - name: Date of Birth
-      value: #14th March 1879
+    - name: Nationality
+      value: Chinese
     - name: Languages
       value: Chinese, English
-
+    - name: Email
+      value: yunda@cwi.nl
+    - name: Address
+      value: Science Park 123, 1098 XG Amsterdam, the Netherlands
+    - name: Postal address
+      value: P.O. Box 94079, 1090 GB Amsterdam, the Netherlands
+      
 
 
 
