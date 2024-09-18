@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A new paper appears on arXiv: [E-Values for Exponential Families: the General Case](https://arxiv.org/abs/2409.11134v1).
+A new paper has been published on arXiv: [E-Values for Exponential Families: the General Case](https://arxiv.org/abs/2409.11134v1).
