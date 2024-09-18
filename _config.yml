@@ -7,7 +7,7 @@ first_name: Yunda
 #middle_name: R.
 last_name: Hao (郝运达)
 email: yunda@cwi.nl
-description: > PhD student at CWI, the Netherlands. # the ">" symbol means to ignore newlines until "footer_text:"
+description: PhD student at CWI, the Netherlands. # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -102,8 +102,7 @@ discord_id: # your discord id (18-digit unique numerical identifier)
 zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
-contact_note: >
-Please feel free to reach out to me via email if you would like to get in touch. # You can even add a little note about which of these is the best way to reach you.
+contact_note: > Please feel free to reach out to me via email if you would like to get in touch. # You can even add a little note about which of these is the best way to reach you.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
