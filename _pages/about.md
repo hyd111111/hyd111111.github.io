@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle: PhD student at CWI.
 profile:
   align: right
   image: Yunda_portrait.png
