@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: [yunda@cwi.nl](yunda@cwi.ml).
+subtitle: [yunda@cwi.nl](yunda@cwi.nl)
 profile:
   align: right
   image: Yunda_portrait.png
