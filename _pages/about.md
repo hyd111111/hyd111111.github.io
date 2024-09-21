@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student at CWI.
+subtitle: [yunda@cwi.nl](yunda@cwi.ml).
 profile:
   align: right
   image: Yunda_portrait.png
