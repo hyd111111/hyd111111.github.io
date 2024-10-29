@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: E-mail:\quad yunda@cwi.nl
+subtitle: E-mail:yunda@cwi.nl
 profile:
   align: right
   image: Yunda_portrait.png
@@ -19,4 +19,7 @@ I am a PhD student in mathematics and statistics at [Machine Learning group](htt
 
 My research interests include Safe, Anytime-Valid Test (Also called e-value, e-process etc.) and Information Theory with a focus on Minimum Description Length (MDL).
 I am also interested in foundational problems in Machine Learning.
+
+decoration
+
 
