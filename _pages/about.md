@@ -5,7 +5,7 @@ permalink: /
 subtitle: E-mail:yunda@cwi.nl
 profile:
   align: right
-  image: Yunda_portrait.png
+  image: Portrait.JPG
   image_circular: false # crops the image to make it circular
   more_info: 
 
