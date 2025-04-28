@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I received my PhD degree in Mathematics from Leiden University!
+I received my Ph.D. in Mathematics from Leiden University!
