@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 
 I am a Postdoctoral Fellow at [Department of Statistics](https://www.sta.cuhk.edu.hk/), [the Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), where I work with [Dr. Kin Wai Chan](https://sites.google.com/site/kwchankeith/home). Before that, I was a PhD student in statistics at [Centrum Wiskunde & Informatica (CWI)](https://www.cwi.nl/en/) (the national research institute for mathematics and computer science in the Netherlands) and obtained my Ph.D. at Leiden University, under the guidance of [Prof. Peter Grünwald](https://safestatistics.com/).
 
-My research interests include Safe, Anytime-Valid (Sequential) Test (Specifically e-value, e-process etc.) and Information Theory with a focus on Minimum Description Length (MDL). Currently, I’m engaged in a project dealing with locally stationary time series. I am also interested in foundational problems in Machine Learning.
+My research interests include Anytime-Valid (Sequential) Test (Specifically e-value, e-process etc.), Information Theory with a focus on Minimum Description Length (MDL) and time series analysis. I am also interested in foundational problems in Machine Learning.
 
 
 
