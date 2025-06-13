@@ -3,16 +3,16 @@
   contents:
     - name: Full Name
       value: Yunda Hao
-    - name: Nationality
-      value: Chinese
+    # - name: Nationality
+    #   value: Chinese
     - name: Languages
       value: Chinese, English
     - name: Email
       value: yunda@cwi.nl
     - name: Address
-      value: Science Park 123, 1098 XG Amsterdam, the Netherlands
-    - name: Postal address
-      value: P.O. Box 94079, 1090 GB Amsterdam, the Netherlands
+      value: Room 119, Lady Shaw Building, The Chinese University of Hong Kong, Shatin, N.T., Hong Kong SAR, China
+    # - name: Postal address
+    #   value: P.O. Box 94079, 1090 GB Amsterdam, the Netherlands
       
 - title: Education
   type: map
