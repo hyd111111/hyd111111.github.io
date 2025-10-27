@@ -5,7 +5,7 @@ permalink: /
 subtitle: E-mail:yundahao@cuhk.edu.hk
 profile:
   align: right
-  image: Portrait2.jpg
+  image: image1.jpeg
   image_circular: false # crops the image to make it circular
   more_info: 
 
