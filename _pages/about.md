@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: E-mail:yundahao@tju.edu.cn
+subtitle: yundahao@tju.edu.cn
 profile:
   align: right
   image: image1.jpeg
