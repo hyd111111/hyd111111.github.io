@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-Referee Service: Annals of Applied Probability, Statistica Sinica.
+Referee Service: Journal of the American Statistical Association, Annals of Applied Probability, Statistica Sinica.
 
 
