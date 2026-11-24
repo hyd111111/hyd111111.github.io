@@ -1,20 +1,21 @@
 {
-  "basics":[
-  {
-    "name": "Yunda Hao",
-    "label": "",
-    "image": "",
-    "email": "yundahao@tju.edu.cn",
-    "phone": "",
-    "url": "",
-    "summary": "",
-    "location": {
-      "address": "Weijin Road Campus: No. 92 Weijin Road, Nankai District, Tianjin, China",
-      "postalCode": "300072",
-      "city": "Tianjin",
-      "countryCode": "CN",
-      "region": "Tianjin"}
-  }
+  "basics": [
+    {
+      "name": "Yunda Hao",
+      "label": "",
+      "image": "",
+      "email": "yundahao@tju.edu.cn",
+      "phone": "",
+      "url": "",
+      "summary": "",
+      "location": {
+        "address": "Weijin Road Campus: No. 92 Weijin Road, Nankai District, Tianjin, China",
+        "postalCode": "300072",
+        "city": "Tianjin",
+        "countryCode": "CN",
+        "region": "Tianjin"
+      }
+    }
   ],
   "work": [
     {
@@ -27,24 +28,13 @@
   ],
   "education": [
     {
-      "institution": " Centrum Wiskunde & Informatica (CWI) & Leiden University, the Netherlands",
+      "institution": "Centrum Wiskunde & Informatica (CWI) & Leiden University, the Netherlands",
       "location": "Amsterdam, the Netherlands",
       "url": "https://www.cwi.nl/en/",
-      "area": "Statistics & Maching learning theory",
+      "area": "Statistics & Machine Learning Theory",
       "studyType": "PhD",
       "startDate": "2020-11",
       "endDate": "2025-02"
-    }
-  ],
-  "Referee service": [
-    {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
   "languages": [
