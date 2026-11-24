@@ -1,5 +1,6 @@
 {
-  "basics": {
+  "basics":[
+  {
     "name": "Yunda Hao",
     "label": "",
     "image": "",
@@ -13,7 +14,8 @@
       "city": "Tianjin",
       "countryCode": "CN",
       "region": "Tianjin"}
-  },
+  }
+  ],
   "work": [
     {
       "name": "The Center for Applied Mathematics, Tianjin University",
