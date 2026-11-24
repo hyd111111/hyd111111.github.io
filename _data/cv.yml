@@ -8,24 +8,21 @@
     - name: Languages
       value: Chinese, English
     - name: Email
-      value: yundahao@cuhk.edu.hk
+      value: yundahao@tju.edu.cn
     - name: Address
-      value: Room 119, Lady Shaw Building, The Chinese University of Hong Kong, Shatin, N.T., Hong Kong SAR, China
+      value: "Weijin Road Campus: No. 92 Weijin Road, Nankai District, Tianjin, China"
     # - name: Postal address
     #   value: P.O. Box 94079, 1090 GB Amsterdam, the Netherlands
-      
+
 - title: Education
   type: map
   contents:
     - name: Centrum Wiskunde & Informatica, 11/2020 - 02/2025.
       value: Ph.D. in Mathematics and Statistics (Ph.D. degree at Leiden University).
-    - name: Xi`an Jiaotong University, 09/2017 - 07/2020
+    - name: Xi'an Jiaotong University, 09/2017 - 07/2020
       value: M.S. in Applied statistics.
     - name: Hebei University, 09/2013 - 07/2017
       value: B.S. in Mathematics.
-
-
-
 
 - title: Other Interests
   type: list
