@@ -4,4 +4,8 @@ title: Academic services
 permalink: /academic_services/
 ---
 
-{% include academic_services.liquid %}
+Referee Service:
+
+- Journal of the American Statistical Association
+- The Annals of Applied Probability
+- Statistica Sinica
