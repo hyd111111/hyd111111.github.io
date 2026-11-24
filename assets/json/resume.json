@@ -72,11 +72,7 @@
   "interests": [
     {
       "name": "Hobbies",
-      "keywords": [
-        "Badminton",
-        "Table tennis",
-        "Billiards"
-      ]
+      "keywords": ["Badminton", "Table tennis", "Billiards"]
     }
   ]
 }
