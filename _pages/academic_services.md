@@ -1,6 +1,6 @@
 ---
 layout: page
-title: academic services
+title: referee service
 permalink: /academic_services/
 nav: false
 nav_order: 4
