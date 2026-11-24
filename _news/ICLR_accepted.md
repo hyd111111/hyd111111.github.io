@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 Our paper [Towards Understanding The Calibration Benefits of Sharpness-Aware Minimization](https://arxiv.org/abs/2505.23866) was accepted by ICLR, 2026.
-

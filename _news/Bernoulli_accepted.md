@@ -6,5 +6,3 @@ related_posts: false
 ---
 
 Our paper [E-Values for Exponential Families: the General Case](https://arxiv.org/abs/2409.11134v2) was accepted by [Bernoulli](https://www.bernoullisociety.org/index.php/publications/bernoulli-journal/bernoulli-journal-papers).
-
-
