@@ -2,10 +2,8 @@
 layout: page
 title: Academic services
 permalink: /academic_services/
+nav: true
+nav_order: 4
 ---
 
-Referee Service:
-
-- Journal of the American Statistical Association
-- The Annals of Applied Probability
-- Statistica Sinica
+{% include academic_services.liquid %}
