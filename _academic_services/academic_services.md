@@ -6,5 +6,3 @@ related_posts: false
 ---
 
 Referee Service: Journal of the American Statistical Association, The Annals of Applied Probability, Statistica Sinica.
-
-
