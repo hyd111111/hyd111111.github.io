@@ -19,7 +19,7 @@
     {
       "name": "The Center for Applied Mathematics, Tianjin University",
       "position": "Assistant Professor of Statistics",
-      "url": "https://cam.tju.edu.cn/",
+      "url": "https://cam.tju.edu.cn/en/",
       "startDate": "2026-09",
       "endDate": ""
     },
@@ -27,22 +27,22 @@
       "name": "Department of Statistics and Data Science, The Chinese University of Hong Kong",
       "position": "Postdoctoral Fellow",
       "url": "https://www.sta.cuhk.edu.hk/",
-      "startDate": "",
-      "endDate": ""
+      "startDate": "2025-04",
+      "endDate": "2026-08"
     }
   ],
   "education": [
     {
       "institution": "Centrum Wiskunde & Informatica (CWI) & Leiden University, the Netherlands",
-      "location": "Amsterdam, the Netherlands",
       "url": "https://www.cwi.nl/en/",
-      "area": "Statistics & Machine Learning Theory",
+      "area": "Statistics",
       "studyType": "PhD",
       "startDate": "2020-11",
       "endDate": "2025-02"
     },
     {
       "institution": "Xi'an Jiaotong University",
+      "url": "https://en.xjtu.edu.cn/",
       "studyType": "M.S.",
       "area": "Applied Statistics",
       "startDate": "2017-09",
@@ -50,6 +50,7 @@
     },
     {
       "institution": "Hebei University",
+      "url": "https://en.hbu.cn/",
       "studyType": "B.S.",
       "area": "Mathematics",
       "startDate": "2013-09",
